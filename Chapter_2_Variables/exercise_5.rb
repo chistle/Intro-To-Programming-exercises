@@ -1,0 +1,1 @@
+#First program outputs 3. Second oe gives you error about variable that is out of scope.
